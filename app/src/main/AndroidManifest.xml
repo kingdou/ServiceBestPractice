@@ -18,7 +18,6 @@
         <service android:name=".LongRunningService">
         </service>
         <receiver android:name=".AlarmReceiver">
-
         </receiver>
     </application>
 
